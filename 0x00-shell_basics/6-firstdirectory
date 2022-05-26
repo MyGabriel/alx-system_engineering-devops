@@ -1,3 +1,2 @@
-#!/bib/bash
-mkdir -p tmp/{my_first_directory}
-
+#!/bin/bash
+sudo mkdir -p ~tmp/my_first_directory
