@@ -1,2 +1,2 @@
 #!/bib/bash
-sudo mkdir -p tmp/my_first_directory
+mkdir -p /tmp/my_first_directory
